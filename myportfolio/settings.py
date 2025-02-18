@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-*s-hm!epw%rgbt37^cew#ra&!)8fmvx3a_4q_1bgd7*fwpf*33
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["shine-portfolio.onrender.com", "127.0.0.1", "localhost"]
 
 
 # Application definition
